@@ -18,7 +18,7 @@ const Aktivitas: React.FC = () => {
         <div className="gallery-item md:col-span-2 relative overflow-hidden rounded-xl cursor-pointer group">
           <img
             className="w-full h-[320px] max-md:h-[260px] object-cover transition-transform duration-500 ease-in-out group-hover:scale-[1.06] block"
-            src="/images/gallery_3.jpg"
+            src="/images/gallery_3.webp"
             alt="Ring toss counting activity"
           />
           <div className="gallery-caption absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 to-transparent pt-10 px-5 pb-4 text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
@@ -35,7 +35,7 @@ const Aktivitas: React.FC = () => {
         <div className="gallery-item relative overflow-hidden rounded-xl cursor-pointer group">
           <img
             className="w-full h-[260px] object-cover transition-transform duration-500 ease-in-out group-hover:scale-[1.06] block"
-            src="/images/gallery_4.jpg"
+            src="/images/gallery_4.webp"
             alt="Ball pit sorting"
           />
           <div className="gallery-caption absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 to-transparent pt-10 px-5 pb-4 text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
@@ -52,7 +52,7 @@ const Aktivitas: React.FC = () => {
         <div className="gallery-item relative overflow-hidden rounded-xl cursor-pointer group">
           <img
             className="w-full h-[260px] object-cover transition-transform duration-500 ease-in-out group-hover:scale-[1.06] block"
-            src="/images/gallery_5.jpg"
+            src="/images/gallery_5.webp"
             alt="Emotion face matching"
           />
           <div className="gallery-caption absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 to-transparent pt-10 px-5 pb-4 text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
@@ -67,7 +67,7 @@ const Aktivitas: React.FC = () => {
         <div className="gallery-item relative overflow-hidden rounded-xl cursor-pointer group">
           <img
             className="w-full h-[260px] object-cover transition-transform duration-500 ease-in-out group-hover:scale-[1.06] block"
-            src="/images/gallery_6.jpg"
+            src="/images/gallery_6.webp"
             alt="Button lacing activity"
           />
           <div className="gallery-caption absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 to-transparent pt-10 px-5 pb-4 text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">
@@ -82,7 +82,7 @@ const Aktivitas: React.FC = () => {
         <div className="gallery-item relative overflow-hidden rounded-xl cursor-pointer group">
           <img
             className="w-full h-[260px] object-cover transition-transform duration-500 ease-in-out group-hover:scale-[1.06] block"
-            src="/images/gallery_7.jpg"
+            src="/images/gallery_7.webp"
             alt="Pom pom sorting"
           />
           <div className="gallery-caption absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/75 to-transparent pt-10 px-5 pb-4 text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">

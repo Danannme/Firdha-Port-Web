@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
       {/* Hero Left */}
       <div className="hero-left flex flex-col justify-center py-20 md:py-[4vh] pr-[60px] md:pr-[5vw] pl-20 md:pl-[6vw] max-md:px-8 max-md:py-16 w-full h-full">
         <div className="hero-eyebrow font-mono text-[11px] tracking-[0.2em] uppercase text-[#7CA982] mb-6 md:mb-[2vh] flex items-center gap-3 before:content-[''] before:block before:w-8 before:h-[1px] before:bg-[#7CA982]">
-          Behavior Therapist &amp; - Certified Social Worker
+          Behavior Therapist &amp; Certified Social Worker
         </div>
         <h1 className="font-serif text-[clamp(42px,5vw,64px)] leading-[1.1] text-[#2C2C2C] mb-3 md:mb-[1.5vh]">
           Firdha Dewi
@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
         <div className="hero-img-grid p-10 max-md:p-4 w-full h-full flex items-center justify-center">
           <img
             className="w-full h-full object-cover rounded-xl transition-transform duration-400 ease-in-out hover:scale-[1.03]"
-            src="/images/HeroPicture.jpeg"
+            src="/images/HeroPicture.webp"
             alt="Aktivitas terapi anak"
           />
         </div>
